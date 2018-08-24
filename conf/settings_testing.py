@@ -21,8 +21,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',  # 默认用mysql
         'NAME': 'helloword',                        # 数据库名 (默认与APP_ID相同)
         'USER': 'root',                            # 你的数据库user
-        'PASSWORD': '000000',                        # 你的数据库password
-        'HOST': '192.168.26.131',                # 数据库HOST
+        'PASSWORD': '',                        # 你的数据库password
+        'HOST': '192.168.26.130',                # 数据库HOST
         'PORT': '3306',                        # 默认3306
     },
 }
